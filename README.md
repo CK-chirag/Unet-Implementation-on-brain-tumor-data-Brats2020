@@ -24,4 +24,4 @@ Multi-modal MRI inputs: T1, T1CE, T2, FLAIR
 
 Expert-annotated tumor masks
 
-More info: https://www.med.upenn.edu/cbica/brats2020/
+More info: [Dataset link](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)
